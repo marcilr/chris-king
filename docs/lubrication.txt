@@ -1,0 +1,78 @@
+lubrication.txt
+Created Thu Nov  2 08:10:52 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Lubrication
+
+ISO Hub Manual
+
+Chris King
+Precision Components
+
+Lubrication, p. 7
+Disassembly of one piece axle on front ISO hub, p. 9
+Disassembly of one piece axle on rear ISO hub,  p. 12
+The RingDrive, Inspection, Basic maintenance,   p. 17
+
+Summer (32 - 110F) Chris Kigng RingDrive grease
+Winter sub-freezing conditions - quality 10w synthetic oil.
+  Pedros SynLube or Mobil 1 <===
+
+
+Lubrication
+===========
+
+Normal conditions
+-----------------
+In normal riding conditions (32 ° - 110° F), our Ring Drive grease is
+recommended for the bearings and the RingDrive.  Do not substitute
+other brands of grease, as they may cause premature wear and/or be too
+sticky for the helix of the RingDrive inhibiting proper engagement.
+
+
+Cold conditions
+---------------
+To ensure proper engagement in sub-freezing conditions, first be sure
+that there is no water or moisture inside the hubshell. The hub may
+require an overhaul to ensure that the hub interior is completely
+water-free.  Then mix the grease in the RingDrive area, especially
+on the helical splines of the driveshell, with 5-10 drops of Tri-flow.
+If you expect to be riding in temperatures that are consistently at
+or below freezing replace all internal lube with a quality 10w synthetic
+oil. Do not over fill.  We reccomend using a siliconal oil (Pedros
+SynLube or Mobil 1)
+
+
+Wet conditions
+--------------
+Riding in wet conditions necessitates more frequent ser vice.  Often this
+is as simple as removing the axle and driveshell from the hub, removing
+any moisture from inside the hub shell, and applying more grease to the
+needle bearing. This should not replace periodic complete disassembly
+and maintenance, especially in extreme or prolonged wet conditions.
+
+Since it is nearly impossible to seal a hub from water and still have it
+spin freely, we have designed our hubs to be able to operate normally
+with some water intrusion. Although the bearings are stainless steel
+and will resist water induced corrosion, the lubricant will eventually
+deteriorate, leading to premature bearing wear and possible failure.
+High-pressure spray washing, transporting or riding the bicycle in the
+rain, or submersion in water while riding can all lead to lubricant
+contamination by water. Be aware of these situations and service more
+frequently when they occur.
+
+
+In a pinch...
+-------------
+If Chris King RingDrive lube in not available, a quality 10w synthetic
+oil may be substituted. Do not substitute other brands of grease, as 
+they may be too sticky for the helix of the RingDr ive. Running the hub
+on oil will cause the RingDr ive to be more audible, yet functionally
+no different. Since this is a lighter lube than our RingDrive lube your
+hub needs to be serviced more often.
+
+If you have any additional questions, please call our Technical Services
+Department at 800.523.6008, or check out our web site for tech info and
+videos: www.chrisking.com
+
