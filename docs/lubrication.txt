@@ -6,7 +6,6 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 Lubrication
 
 ISO Hub Manual
-
 Chris King
 Precision Components
 
@@ -20,12 +19,33 @@ Winter sub-freezing conditions - quality 10w synthetic oil.
   Pedros SynLube or Mobil 1 <===
 
 
-Lubrication
-===========
+Fri Nov  3 09:02:42 AKDT 2017
+=============================
+On the ride in this morning I stopped at Walmart and purchased
+1 quart of Mobil 1 Synthetic Motor Oil for $8.83 for use with
+the new Chris King ISO hubs I purchased on Thursday October 19, 2017
+from wheelbuilder.com
+
+This tracks with he ISO Hub Manual, p. 7 and 
+Chris King Technical Bulletin, Effective: 10/01/2016:
+  Starting in October of 2016, ALL hubs will now ship with a
+  revised OIL BASED RingDrive Lube. Field service should now
+  implement the use of "RingDrive II" (Coming Soon) or high
+  quality 10w-30 full synthetic motor oil (e.g. Mobil 1 10w-30).
+  When servicing RingDrive use approximately 2-4ml of 10w-30
+  synthetic oil, applied directly onto the Drive and Driven rings
+  when filling the hub.
+
+
+ISO Hub Manual
+Chris King
+Precision Components
+Lubrication, p. 7
+
 
 Normal conditions
 -----------------
-In normal riding conditions (32 ° - 110° F), our Ring Drive grease is
+In normal riding conditions (32° - 110° F), our Ring Drive grease is
 recommended for the bearings and the RingDrive.  Do not substitute
 other brands of grease, as they may cause premature wear and/or be too
 sticky for the helix of the RingDrive inhibiting proper engagement.
@@ -67,8 +87,8 @@ In a pinch...
 -------------
 If Chris King RingDrive lube in not available, a quality 10w synthetic
 oil may be substituted. Do not substitute other brands of grease, as 
-they may be too sticky for the helix of the RingDr ive. Running the hub
-on oil will cause the RingDr ive to be more audible, yet functionally
+they may be too sticky for the helix of the RingDrive.  Running the hub
+on oil will cause the RingDrive to be more audible, yet functionally
 no different. Since this is a lighter lube than our RingDrive lube your
 hub needs to be serviced more often.
 
@@ -76,3 +96,9 @@ If you have any additional questions, please call our Technical Services
 Department at 800.523.6008, or check out our web site for tech info and
 videos: www.chrisking.com
 
+
+Links
+=====
+Technical Bulletin
+Effective: 10/01/2016
+https://chrisking.com/files/public/content/media/document/2/0/ring_drive_lube_addendum_10_16_b.pdf
